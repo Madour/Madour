@@ -18,8 +18,10 @@ Things I'll **never** say :
  - "I like ~~coffe~~ Java :coffee:"
  - "Python is for kids :snake:"
  
- #
+#
  
+###### 🌍 Looking for an internship in Robotics/Embedded sytems or Software engineering, anywhere in Europe
+
 <!--
 **Madour/Madour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
