@@ -14,10 +14,8 @@
 
 #
 
-Things I'll **never** say :
- - "I like ~~coffe~~ Java :coffee:"
- - "Python is for kids :snake:"
- 
+:joystick: Currently working on **NasNas**, an open source 2D game framework for C++ !
+
 #
  
 ###### 🌍 Looking for an internship in Robotics/Embedded sytems or Software engineering, anywhere in Europe
