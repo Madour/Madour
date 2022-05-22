@@ -1,5 +1,4 @@
-#### My Github stats :
-<table style="border:0px solid black;">
+<table style="border:0px solid black">
   <tr style="border:0px;">
     <td style="border:0px;">
       <a href="https://github.com/Madour">
@@ -13,12 +12,11 @@
 </table>
 
 #
+<br>
 
-:joystick: Currently working on **NasNas**, an open source 2D game framework for C++ !
+:joystick: Currently working on [**NasNas**](https://github.com/Madour/NasNas), a cross platform 2D game framework for C++ !
 
 #
- 
-###### 🌍 Looking for an internship in Robotics/Embedded sytems or Software engineering, anywhere in Europe
 
 <!--
 **Madour/Madour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
